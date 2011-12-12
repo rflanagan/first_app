@@ -1,3 +1,3 @@
 # Ruby on Rails: First Application
 
-This is my first app, hopefully it goes well.
+This is a test application for me to get more familiar with Git and Heroku.
